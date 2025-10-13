@@ -1,8 +1,8 @@
 # gradle/libs.versions.toml
 
 [versions]
-agp = "8.11.1"
-kotlin = "2.2.10"
+agp = "8.13.0"
+kotlin = "2.2.20"
 
 # AndroidX Core and AppCompat
 core-ktx = "1.17.0"
@@ -16,20 +16,20 @@ constraintlayout = "2.2.1"
 constraintlayout-compose = "1.1.1"
 
 # Compose Versions
-activity-compose = "1.10.1"
-compose-android = "1.9.0"
-compose-material = "1.9.0"
-compose-animation = "1.9.0"
-compose-ui = "1.9.0"
-compose-foundation = "1.9.0"
-compose-ui-tooling = "1.9.0"
+activity-compose = "1.11.0"
+compose-android = "1.9.3"
+compose-material = "1.9.3"
+compose-animation = "1.9.3"
+compose-ui = "1.9.3"
+compose-foundation = "1.9.3"
+compose-ui-tooling = "1.9.3"
 
 # Other Libraries
 biometric-ktx = "1.4.0-alpha02"
 
 # Database
 moshi = "1.15.2"
-ksp = "2.2.10-2.0.2"
+ksp = "2.2.20-2.0.4"
 
 
 [libraries]
